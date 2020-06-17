@@ -1,0 +1,8 @@
+cli_5g.py
+setup.py
+cli_5g.egg-info/PKG-INFO
+cli_5g.egg-info/SOURCES.txt
+cli_5g.egg-info/dependency_links.txt
+cli_5g.egg-info/entry_points.txt
+cli_5g.egg-info/requires.txt
+cli_5g.egg-info/top_level.txt

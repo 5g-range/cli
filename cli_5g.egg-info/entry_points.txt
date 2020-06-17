@@ -1,0 +1,5 @@
+
+	[console_scripts]
+	cli_5g=cli_5g:cli
+	
+	
